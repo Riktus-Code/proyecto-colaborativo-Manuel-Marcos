@@ -46,7 +46,7 @@ El juego se desarrolla en una representación históricamente precisa del **Sacr
 - **Theresa**: Campesina rescatada por Henry; posible interés romántico y aliada.
 - **Segismundo**: Rey húngaro y antagonista político del juego.
 - **Wenceslao IV**: Rey legítimo de Bohemia, pero ineficaz en su gobierno.
-
+- **Roberto Carlos**: Gran jugador del Real Madrid, Lateral Izquierdo.
 
 
 ## Jugabilidad
